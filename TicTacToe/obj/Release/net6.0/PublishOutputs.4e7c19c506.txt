@@ -1,0 +1,5 @@
+C:\Users\Eli Delnore\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0\publish\TicTacToe.exe
+C:\Users\Eli Delnore\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0\publish\TicTacToe.dll
+C:\Users\Eli Delnore\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0\publish\TicTacToe.deps.json
+C:\Users\Eli Delnore\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0\publish\TicTacToe.runtimeconfig.json
+C:\Users\Eli Delnore\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0\publish\TicTacToe.pdb
