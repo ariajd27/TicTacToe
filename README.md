@@ -8,4 +8,5 @@ Intended to be run from the command line, this program supports several command 
 * morecalc: make the ai smarter, but slow down computation
 
 Includes Monte-Carlo tree search implementation by Daniel McDonald, from https://github.com/dmacthedestroyer/mcts
+
 MIT License
