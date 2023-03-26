@@ -6,3 +6,6 @@ Intended to be run from the command line, this program supports several command 
 * aionly: the opposite, mostly intended for testing
 * lesscalc: make the ai stupider, but speed up computation
 * morecalc: make the ai smarter, but slow down computation
+
+Includes Monte-Carlo tree search implementation by Daniel McDonald, from https://github.com/dmacthedestroyer/mcts
+MIT License
